@@ -1,0 +1,82 @@
+body {
+    margin: 0;
+    padding-left: 1rem;
+    box-sizing: border-box;
+    width: 100%;
+    background-color: ghostwhite;
+}
+
+* {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 62.5%;
+}
+
+header {
+    border-bottom: 0.1rem dotted black;
+}
+
+.doctype {
+    font-size: 3.2rem;
+}
+
+.websiteName {
+    font-size: 2.6rem;
+}
+
+h3 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    border-bottom: 0.1rem dotted black;
+    padding-bottom: 2rem;
+}
+
+.color {
+    height: 5vh;
+    width: 5vw;
+}
+
+.color1 {
+    background-color: #800000;
+}
+
+figcaption {
+    background-color: black;
+    color: white;
+    font-style: italic;
+    text-align: center;
+    font-size: 1.6rem;
+    width: 5vw;
+    height: auto;
+}
+
+.color2 {
+    background-color: #FFE5D9;
+}
+
+.color3 {
+    background-color: #54B8CC;
+}
+
+.container2 {
+    border-bottom: 0.1rem dotted black;
+    padding-bottom: 2rem;
+}
+
+.websiteNameFont {
+    font-family: 'Merienda';
+    font-size: 1.5rem;
+}
+
+.sloganFont {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.5rem;
+}
+
+.fontName, .fontName strong{
+    font-size: 1.5rem;
+}
