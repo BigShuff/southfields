@@ -108,14 +108,14 @@ main {
     border-bottom-right-radius: 5px;
     color: rgb(224, 223, 223);
     font-size: 1.4rem;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Poppins;
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.15rem;
     width: 77.9vw;
-    border-left: 2px solid black;
-    border-right: 2px solid black;
-    border-bottom: 2px solid black;
+    border-left: 2px solid rgb(38, 38, 38);
+    border-right: 2px solid rgb(38, 38, 38);
+    border-bottom: 2px solid rgb(38, 38, 38);
 }
 
 .me {
@@ -173,7 +173,8 @@ main {
 
 .cards a {
     /* font-family: Arial, Helvetica, sans-serif; */
-    font-family: 'Merienda', cursive;
+    /* font-family: 'Merienda', cursive; */
+    font-family: Poppins;
     font-weight: 500;
     font-size: 2rem;
     color: #fff;
@@ -184,7 +185,7 @@ main {
 }
 
 .cards a:hover {
-    color: rgb(79, 86, 94);
+    color: rgb(57, 85, 117);    
 }
 
 .cards {
@@ -211,11 +212,11 @@ main {
     display:flex;
     align-items: center;
     padding-left: 2rem;
-    border: 2px solid rgb(54, 53, 53);
+    border: 2px solid rgb(38, 38, 38);
 }
 
 .info span{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Poppins;
     color: antiquewhite;
     font-size: 1rem;
     font-weight: 400;
