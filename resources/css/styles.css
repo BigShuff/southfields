@@ -26,6 +26,9 @@ html {
     background-color: slategrey;
     flex-wrap: wrap;
     position: fixed;
+    border-left: 2px solid rgb(54, 53, 53);
+    border-right: 2px solid rgb(54, 53, 53);
+
 }
 
 .flexContainer .coName {
@@ -78,7 +81,7 @@ html {
 }
 
 .nav li a:hover {
-    color: rgb(79, 86, 94);
+    color: rgb(57, 85, 117);
 }
 
 /* End Header CSS */
@@ -110,6 +113,9 @@ main {
     line-height: 1.5;
     letter-spacing: 0.15rem;
     width: 77.9vw;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
 }
 
 .me {
@@ -124,7 +130,6 @@ main {
     max-width: 188px;
     height: auto;
     box-shadow: 5px 5px 5px rgb(0, 0, 32);
-    border: 2 solid darkgrey;
 }
 
 .writing {
@@ -194,10 +199,11 @@ main {
     border-radius: 5px;
     justify-content: center;
     align-items: center;
+    border: 2px solid rgb(54, 53, 53);
 }
 
 .footer{
-    margin-top: 3rem;
+    margin-top: 4rem;
     height: 50px;
     width: 78.125vw;
     background-color: slategrey;
@@ -205,6 +211,7 @@ main {
     display:flex;
     align-items: center;
     padding-left: 2rem;
+    border: 2px solid rgb(54, 53, 53);
 }
 
 .info span{
