@@ -20,7 +20,8 @@ html {
 .flexContainer {
     display: flex;
     max-width: 1500px;
-    min-height: 65px;
+    min-width: 390px;
+    min-height: 70px;
     width: 78.125vw;
     justify-content: space-evenly;
     background-color: slategrey;
@@ -279,7 +280,8 @@ main {
         display:flex;
         flex-direction: column;
         align-items: center;
-    }
+        margin: auto;
+       }
 
     .mainDiv2{
         display:flex;
