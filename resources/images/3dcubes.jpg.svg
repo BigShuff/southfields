@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg884"
+   width="480"
+   height="160"
+   viewBox="0 0 480 160"
+   sodipodi:docname="3dcubes.jpg.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs888">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="169.60867 : 97.086942 : 1"
+       inkscape:vp_y="0 : 447.91914 : 0"
+       inkscape:vp_z="455.41245 : 97.086942 : 1"
+       inkscape:persp3d-origin="312.51056 : 85.142432 : 1"
+       id="perspective21456" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="96.900902 : -100.43924 : 1"
+       inkscape:vp_y="0 : 789.38245 : 0"
+       inkscape:vp_z="273.12315 : -100.43924 : 1"
+       inkscape:persp3d-origin="185.01203 : -121.48944 : 1"
+       id="perspective21346" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview886"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="2.1229167"
+     inkscape:cx="192.18842"
+     inkscape:cy="79.842983"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g890" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g890">
+    <rect
+       style="fill:#4d0c39;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-linejoin:bevel;stroke-dashoffset:71.1685;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect22702"
+       width="480.33121"
+       height="160.02086"
+       x="-0.563052"
+       y="-0.46000981" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Image 1" />
+</svg>

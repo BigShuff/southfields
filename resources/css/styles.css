@@ -101,7 +101,7 @@ main {
     display: flex;
     justify-content: flex-start;
     flex-wrap: wrap;
-    background: url('../images/3dcubes.jpg');
+    background: url('../images/3dcubes.jpg.svg');
     background-repeat: no-repeat;
     background-size: cover;
     border-bottom-left-radius: 5px;
